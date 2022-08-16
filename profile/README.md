@@ -2,6 +2,8 @@
 
 ## NodeJS
 
+- Getting started with the MongoDB Atlas Operator: [Application Deployment in Kubernetes with the MongoDB Atlas Operator](https://github.com/mongodb-developer/mern-k8s/blob/main/guide.md)
+
 ## C#
 
 - Introduction to local Realms in Unity: [Persistence in Unity using Realm](https://github.com/realm/unity-examples/blob/3d-chess/local-realm/tutorial/unity_local_realm.md)
